@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
  
-const gamestats = [`1help`,`bot!`,``,``]
+const gamestats = [`1help`,`FROZEN | 1help`,``,``]
 var index = 0
 var timer = 20 // الوقت بالثواني لتغير الستريمنق
 client.on("ready", ()=> {
